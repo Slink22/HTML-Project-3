@@ -28,7 +28,7 @@ function nextPrev(n) {
         currentTab = currentTab + n;
     if (currentTab >= x.length) {
         document.getElementById("regForm").submit();
-        location.replace("https://THANKS.HTML.com")
+        location.replace("THANKS.HTML")
         return false;
     }
 
