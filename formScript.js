@@ -28,7 +28,7 @@ function nextPrev(n) {
         currentTab = currentTab + n;
     if (currentTab >= x.length) {
         document.getElementById("regForm").submit();
-        location.replace("THANKS.HTML")
+        location.replace("https://slink22.github.io/Thanks-Project3/")
         return false;
     }
 
