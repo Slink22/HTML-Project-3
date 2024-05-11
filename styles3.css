@@ -119,3 +119,9 @@ img{
 
 
 
+@media (max-width: 768) {
+    img{
+      width: 100px;
+    }
+
+}
